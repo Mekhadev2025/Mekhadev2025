@@ -5,10 +5,10 @@
 - 💻  Skills ----->  Front-End -->   HTML,CSS,JS   || Back-End  -->   PHP|| UI/UX Design--> Figma ||Languages -Java,C
 - 📫 Reach me on LinkedIN  ----->  https://www.linkedin.com/in/mekha-l/
     
+    <br/>
     
-    
- <h1>Languages And Tools</h1>
-<div class="st" style="width:800px; margin: auto;"}> 
+ <h1 align="center" >Languages And Tools</h1>
+<div class="st"  align="center"}> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
@@ -22,13 +22,21 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code> 
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ></code>
  
- 
- </div>      
-  <h1>Github Statistics</h1>
-    
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mekhadev2025&theme=highcontrast&show_icons=true&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mekhadev2025&theme=tokyonight)
+ <br/>
+  <h1 align="center"> Github Statistics   </h1>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mekhadev2025&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekhadev2025&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+
+<br/>
 <br />
+ 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Mekhadev2025.Mekhadev2025)   
  
   
