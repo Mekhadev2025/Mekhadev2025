@@ -5,12 +5,8 @@
 - 💻  Skills ----->  Front-End -->   HTML,CSS,JS   || Back-End  -->   PHP|| UI/UX Design--> Figma ||Languages -Java,C
 - 📫 Reach me on LinkedIN  ----->  https://www.linkedin.com/in/mekha-l/
     
-  <h1>Github Statistics</h1>
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mekhadev2025&theme=highcontrast&show_icons=true&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mekhadev2025&theme=tokyonight)
-<br />
-![](https://visitor-badge.laobi.icu/badge?page_id=Mekhadev2025.Mekhadev2025)   
-
+    
+    
  <h1>Languages And Tools</h1>
 <div class="st" style="width:800px; margin: auto;"}> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -27,7 +23,14 @@
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ></code>
  
  
- </div>   
+ </div>      
+  <h1>Github Statistics</h1>
+    
+![Github stats](https://github-readme-stats.vercel.app/api?username=Mekhadev2025&theme=highcontrast&show_icons=true&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mekhadev2025&theme=tokyonight)
+<br />
+![](https://visitor-badge.laobi.icu/badge?page_id=Mekhadev2025.Mekhadev2025)   
+ 
   
 <!---
 Mekhadev2025/Mekhadev2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
