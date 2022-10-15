@@ -7,9 +7,12 @@
     
  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mekhadev2025&theme=highcontrast&show_icons=true&count_private=true) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mekhadev2025&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mekhadev2025&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=Mekhadev2025.Mekhadev2025)   
     
- ![](https://visitor-badge.laobi.icu/badge?page_id=Mekhadev2025.Mekhadev2025)   
+   
+ 
+    
     
 <!---
 Mekhadev2025/Mekhadev2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
