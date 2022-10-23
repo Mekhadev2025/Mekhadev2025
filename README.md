@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Mekha ,Sophomore at Government Model Engineering College,Kerala 
-- 👀 I’m interested in Web develpment and UI/UX design
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on front-end web development projects
-- 💻  Skills ----->  Front-End -->   HTML,CSS,JS   || Back-End  -->   PHP|| UI/UX Design--> Figma ||Languages -Java,C
-- 📫 Reach me on LinkedIN  ----->  https://www.linkedin.com/in/mekha-l/
-    
+ <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>  
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+ <ul>
+ <li>I’m <b>Mekha</b> ,Sophomore at Government Model Engineering College,Kerala </li>
+  <li>👀 I’m interested in Web develpment and UI/UX design</li>
+<li>🌱 I’m currently learning React.js</li>
+<li> 💞️ I’m looking to collaborate on front-end web development projects</li>
+<li>💻  <b>Skills</b>  <br/>
+     <ol>
+     <li>Front-End -->   HTML,CSS,JS  </li> 
+     <li>Back-End  -->   PHP</li>
+     <li>UI/UX Design--> Figma</li>
+     <li>Languages --->Java,C</li>
+     </ol >
+     </li>
+<li>📫 Reach me on LinkedIN  ----->  https://www.linkedin.com/in/mekha-l/</li>
+    </ul>
     <br/>
     
  <h1 align="center" >Languages And Tools</h1>
