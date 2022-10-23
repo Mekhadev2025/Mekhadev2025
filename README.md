@@ -36,7 +36,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code> 
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ></code>
- 
+ <br/>
+  <br/>
  <br/>
   <h1 align="center"> Github Statistics   </h1>
   
