@@ -8,11 +8,11 @@
  <ul>
  <li>I’m <b>Mekha</b> ,Sophomore at Government Model Engineering College,Kerala </li>
   <li>👀 I’m interested in Web develpment and UI/UX design</li>
-<li>🌱 I’m currently learning React.js</li>
+<li>🌱 I’m currently learning NodeJS</li>
 <li> 💞️ I’m looking to collaborate on front-end web development projects</li>
 <li>💻  <b>Skills</b>  <br/>
      <ol>
-     <li>Front-End -->   HTML,CSS,JS  </li> 
+     <li>Front-End -->   HTML,CSS,JS,React  </li> 
      <li>Back-End  -->   PHP</li>
      <li>UI/UX Design--> Figma</li>
      <li>Languages --->Java,C</li>
