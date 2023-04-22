@@ -30,12 +30,18 @@
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  ></code>
 <code><img width="4%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" ></code>
 <code><img width="4%"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  " ></code>
+<code><img width="10%"   src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" ></code> 
+<code><img width="10%"  height="3%"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" ></code> 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg "></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code> 
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ></code>
+<code><img width="10%"  height="6%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" ></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
  <br/>
   <br/>
  <br/>
