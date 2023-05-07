@@ -12,10 +12,10 @@
 <li> 💞️ I’m looking to collaborate on front-end web development projects</li>
 <li>💻  <b>Skills</b>  <br/>
      <ol>
-     <li>Front-End -->   HTML,CSS,JS,React  </li> 
-     <li>Back-End  -->   PHP</li>
+     <li>Front-End -->   HTML,CSS,JS,React</li> 
+     <li>Back-End  -->   PHP,Express</li>
      <li>UI/UX Design--> Figma</li>
-     <li>Languages --->Java,C</li>
+     <li>Languages --->Java,C,Dart,JavaScript,TypeScript</li>
      </ol >
      </li>
 <li>📫 Reach me on LinkedIN  ----->  https://www.linkedin.com/in/mekha-l/</li>
