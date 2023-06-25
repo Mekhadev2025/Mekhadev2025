@@ -7,13 +7,13 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
  <ul>
  <li>I’m <b>Mekha</b> ,Sophomore at Government Model Engineering College,Kerala </li>
-  <li>👀 I’m interested in Web develpment and UI/UX design</li>
-<li>🌱 I’m currently learning NodeJS</li>
-<li> 💞️ I’m looking to collaborate on front-end web development projects</li>
+  <li>👀 I’m interested in Web development and UI/UX designing</li>
+<li>🌱 I’m currently learning MERN Stack and Flutter</li>
+<li> 💞️ I’m looking to collaborate on Full Stack web development projects</li>
 <li>💻  <b>Skills</b>  <br/>
      <ol>
      <li>Front-End -->   HTML,CSS,JS,React</li> 
-     <li>Back-End  -->   PHP,Express</li>
+     <li>Back-End  -->   PHP,Express,MongoDb,MySQL,Node</li>
      <li>UI/UX Design--> Figma</li>
      <li>Languages --->Java,C,Dart,JavaScript,TypeScript</li>
      </ol >
