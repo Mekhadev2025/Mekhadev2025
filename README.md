@@ -1,4 +1,4 @@
-
+ 
  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>  
  
 </p> 
@@ -66,6 +66,7 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekhadev2025&theme=react&line_height=40&hide=css"/>
     </a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mekha Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mekhadev2025&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div
 
 <br/>
