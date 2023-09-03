@@ -46,6 +46,8 @@
 
  <br/>
   <br/>
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemipaul123" alt="jemipaul123" /></a> </p>
  <br/>
   <h1 align="center"> Github Statistics   </h1>
    <br/>
