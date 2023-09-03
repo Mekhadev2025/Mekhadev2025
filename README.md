@@ -1,10 +1,13 @@
 
- <img  height="300" width="1000"  src="https://images.squarespace-cdn.com/content/v1/60199867a5004258c3cf08f1/1612778794452-ABN1FMNDB7F1RYNGIAAQ/GIF+HELLO.gif?format=1000w " /> 
- 
- 
- 
  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>  
+ 
+</p> 
+  <img  height="300" width="1000"  src="https://images.squarespace-cdn.com/content/v1/60199867a5004258c3cf08f1/1612778794452-ABN1FMNDB7F1RYNGIAAQ/GIF+HELLO.gif?format=1000w " /> 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<br><br/>
+<div>  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20Guys%20!!!;I %20am%20Mekha;Full-stack%20web%20developer;UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=000&vCenter=true&pause=500&size=27" /></a>
+  </div>
  <ul>
  <li>I’m <b>Mekha</b> ,Sophomore at Government Model Engineering College,Kerala </li>
   <li>👀 I’m interested in Web development and UI/UX designing</li>
