@@ -46,8 +46,10 @@
 
  <br/>
   <br/>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mekhadev2025)](https://github.com/ryo-ma/github-profile-trophy)
+  <br/>
+  <br/>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Mekhadev2025&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
  <br/>
   <h1 align="center"> Github Statistics   </h1>
