@@ -9,10 +9,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20Guys%20!!!;I %20am%20Mekha;Full-stack%20web%20developer;UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=000&vCenter=true&pause=500&size=27" /></a>
   </div>
  <ul>
- <li>I’m <b>Mekha</b> ,Sophomore at Government Model Engineering College,Kerala </li>
+ <li>I’m <b>Mekha</b> ,Full Stack Web Developer and Sophomore at Government Model Engineering College,Kerala </li>
   <li>👀 I’m interested in Web development and UI/UX designing</li>
-<li>🌱 I’m currently learning MERN Stack and Flutter</li>
-<li> 💞️ I’m looking to collaborate on Full Stack web development projects</li>
+<li>🌱 I’m currently learning MERN Stack, Flutter, and exploring the world of open source and FOSS (Free and Open-Source Software)</li>
+<li> 💞️ I’m looking to collaborate on Full Stack web development projects and contribute to open-source initiatives</li>
 <li>💻  <b>Skills</b>  <br/>
      <ol>
      <li>Front-End -->   HTML,CSS,JS,React</li> 
