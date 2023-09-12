@@ -59,7 +59,11 @@
    <br/>
  <br/>
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Mekhadev2025&theme=dark)](https://git.io/streak-stats)
+
+   <a href="">
+      <img align="center" src="https://streak-stats.demolab.com/?user=Mekhadev2025&theme=dark"/>
+    </a>
+
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mekhadev2025&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
