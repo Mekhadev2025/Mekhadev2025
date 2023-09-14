@@ -27,25 +27,30 @@
     
  <h1 align="center" >Languages And Tools</h1>
 <div class="st"  align="center"}> 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="4%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" ></code>
-<code><img width="4%"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  " ></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  ></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
- <code><img width="10%"  height="3%"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" ></code> 
-<code><img width="10%"   src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" ></code> 
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code> 
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ></code>
-<code><img width="10%"  height="6%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" ></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+ 
+<code><img   src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></code>
+<code><img   src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" ></code>
+<code><img   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+<code><img   src="	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"   ></code>
+<code><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  ></code>
+ <code><img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
+ <code><img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" ></code> 
+<code><img   src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" ></code> 
+<code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></code>
+<code><img   src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code> 
+<code><img   src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></code> 
+<code><img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code> 
+<code><img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code> 
+<code><img   src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></code> 
+<code><img   src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code> 
+<code><img   src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"></code> 
+<code><img   src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code> 
 
  <br/>
   <br/>
