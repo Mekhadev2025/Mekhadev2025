@@ -10,49 +10,13 @@
   </div>
  <ul>
  <li>I’m <b>Mekha</b> ,Full Stack Web Developer and Sophomore at Government Model Engineering College,Kerala </li>
-  <li>👀 I’m interested in Web development and UI/UX designing</li>
-<li>🌱 I’m currently learning MERN Stack, Flutter, and exploring the world of open source and FOSS (Free and Open-Source Software)</li>
-<li> 💞️ I’m looking to collaborate on Full Stack web development projects and contribute to open-source initiatives</li>
-<li>💻  <b>Skills</b>  <br/>
-     <ol>
-     <li>Front-End -->   HTML,CSS,JS,React</li> 
-     <li>Back-End  -->   PHP,Express,MongoDb,MySQL,Node</li>
-     <li>UI/UX Design--> Figma</li>
-     <li>Languages --->Java,C,Dart,JavaScript,TypeScript</li>
-     </ol >
-     </li>
+
 <li>📫 Reach me on LinkedIN  ----->  https://www.linkedin.com/in/mekha-l/</li>
     </ul>
     <br/>
     
- <h1 align="center" >Languages And Tools</h1>
 <div class="st"  align="center"}> 
- 
-<code><img   src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></code>
-<code><img   src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" ></code>
-<code><img   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-<code><img   src="	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"   ></code>
-<code><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  ></code>
- <code><img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
- <code><img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" ></code> 
-<code><img   src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" ></code> 
-<code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></code>
-<code><img   src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code> 
-<code><img   src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></code> 
-<code><img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code> 
-<code><img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code> 
-<code><img   src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></code> 
-<code><img   src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code> 
-<code><img   src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></code> 
-<code><img   src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code> 
-<code><img   src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code> 
-<code><img   src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></code> 
+
  <br/>
   <br/>
   <br/>
